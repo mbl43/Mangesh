@@ -1,4 +1,4 @@
-# Mangesh
+
 <h1 align="center">Hi 👋, I'm Mangesh Lemte</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
