@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mangesh Lemte</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="d=CLIENT_ID%28_%29&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&amp_url=https%3A%2F%2Fwww.pinterest.com%2Famp%2Fpin%2F349521621059435184%2F&amp_expand=true
+<img align="right" alt="Coding" width="400" src=" https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif
 ">
 
 - 🌱 I’m currently learning **UI/UX design**
